@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou Lucas</h1>
-
 <h3 align="center">Um desenvolvedor em constante aprendizagem</h3>
 
-- Brasileiro
-- Estou atualmente trabalhando no projeto **Dealn**
+- 🔭 Atualmente trabalhando no projeto **Dealn**
 
+- 🌱 Cursando **Engenharia de Software**
 
+- ⚡ Nacionalidade: **Brasileiro**
 
 
 <h3 align="left">Languages and Tools:</h3>
