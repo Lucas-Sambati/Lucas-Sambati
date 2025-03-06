@@ -65,3 +65,14 @@ document.querySelectorAll(".intervalo").forEach(intervalo => {
     });
 });
 
+document.querySelectorAll('.botoes-topo a').forEach(anchor => {
+    anchor.addEventListener('click', function(event) {
+        event.preventDefault(); // Evita comportamento padrão
+        const targetId = this.getAttribute('href').substring(1); // Remove o #
+        const targetSection = document.getElementById(targetId);
+
+        if (targetSection) {
+            targetSection.scrollIntoView({ behavior: 'smooth' });
+        }
+    });
+});
